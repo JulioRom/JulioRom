@@ -1,7 +1,5 @@
 # 🤖 [@JulioRom](https://github.com/JulioRom)
 
-![Julio Campos - Desarrollador de Software](https://raw.githubusercontent.com/JulioRom/JulioRom/master/assets/github-header.jpg)
-
 ![GitHub followers](https://img.shields.io/github/followers/JulioRom?label=Follow%20me%20on%20GitHub&style=for-the-badge)
 
 ## ¡Hola! 👋🏻
