@@ -10,7 +10,7 @@
 - **Frameworks y Librerías:** Spring Boot, React, Node.js, Django, Flask
 - **Bases de Datos:** Microsoft SQL Server, MySQL, PostgreSQL
 - **Herramientas:** Docker, Jenkins, Power BI, Grafana
-- **Otros:** Metodologías DevOps, Lean, y diseño de procesos automatizados
+- **Otros:** Metodologías DevOps, Scrum, Lean, y diseño de procesos automatizados
 
 ---
 
