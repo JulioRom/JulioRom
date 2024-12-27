@@ -1,51 +1,70 @@
-# 👋 ¡Hola! Soy Julio Campos
+# 🤖 [@JulioRom](https://github.com/JulioRom)
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador de software con más de cinco años de experiencia en pruebas, integraciones y automatización, trabajando con tecnologías modernas y enfoques innovadores para resolver problemas complejos.
+![Julio Campos - Desarrollador de Software](https://raw.githubusercontent.com/JulioRom/JulioRom/master/assets/github-header.jpg)
 
----
+![GitHub followers](https://img.shields.io/github/followers/JulioRom?label=Follow%20me%20on%20GitHub&style=for-the-badge)
 
-## 🔧 Tecnologías y Herramientas
+## ¡Hola! 👋🏻
 
-- **Lenguajes:** Java, Python, JavaScript, C#, SQL
-- **Frameworks y Librerías:** Spring Boot, React, Node.js, Django, Flask
-- **Bases de Datos:** Microsoft SQL Server, MySQL, PostgreSQL
-- **Herramientas:** Docker, Jenkins, Power BI, Grafana
-- **Otros:** Metodologías DevOps, Scrum, Lean, y diseño de procesos automatizados
+Bienvenido a mi perfil de GitHub. Soy Julio Campos, un **Desarrollador de Software** apasionado por la integración, automatización y análisis de datos. Con más de cinco años de experiencia, he trabajado en proyectos que optimizan procesos industriales y mejoran la eficiencia operativa.
 
 ---
 
-## 🌟 Proyectos Destacados
+### 🚀 ¿Qué hago actualmente?
 
-### **1. Integración de Equipos Industriales**
-Desarrollo de soluciones avanzadas para el monitoreo y control remoto de más de 50 equipos industriales utilizando Java, Docker y React. Estas mejoras redujeron tiempos de respuesta en un 20% y optimizaron la toma de decisiones operativas.
-
-### **2. Robot Bípedo Autónomo**
-Diseño y desarrollo de un robot bípedo de 12 grados de libertad con reconocimiento de imágenes para desplazamiento en entornos complejos. Utilicé modelado e impresión 3D, Arduino y MATLAB para asegurar su funcionalidad y escalabilidad.
+- 👨🏻‍💻 **Desarrollador en aplicaciones industriales y automatización.** Diseñando soluciones personalizadas para optimizar procesos de negocio.
+- 💼 **Proyectos independientes:** Colaborando en la creación de sistemas escalables y análisis de datos mediante tecnologías modernas.
+- 🤺 **Aprendiendo**: Explorando microservicios y tecnologías de contenedores como Kubernetes y Docker para entornos DevOps.
 
 ---
 
-## 🎓 Educación
+### 🛠️ Tecnologías y herramientas
 
-**Ingeniería en Automatización y Control Industrial**  
-*Universidad Tecnológica de Chile INACAP*  
-2015 - 2018
-
----
-
-## 📜 Certificaciones
-
-- **Técnicas de Metodología Lean:** Justo a Tiempo y 5S  
-- **Herramientas de Power BI:** Análisis de Datos  
-- **Desarrollo de Aplicaciones Móviles:** Visual Studio y Xamarin  
+- **Lenguajes**: Java, Python, JavaScript, C#, SQL
+- **Frameworks**: Spring Boot, React, Django, Flask
+- **Bases de datos**: Microsoft SQL Server, MySQL, PostgreSQL
+- **DevOps**: Jenkins, Docker, Kubernetes
+- **Herramientas**: Power BI, Grafana, Git
 
 ---
 
-## 📫 Contacto
+### 🧠 Siempre aprendiendo
 
-- **Email:** [julioandrescampos@gmail.com](mailto:julioandrescampos@gmail.com)
-- **LinkedIn:** [linkedin.com/in/julio-cesar-campos](https://linkedin.com/in/julio-cesar-campos)
-- **GitHub:** [github.com/JulioRom](https://github.com/JulioRom)
+- **Repositorio Playground:** Experimentos y aprendizaje continuo en [Playground](https://github.com/JulioRom/playground).
+- **Notas técnicas y prácticas:** Compartiendo conocimientos y buenas prácticas de desarrollo de software.
 
 ---
 
-¡Gracias por visitar mi perfil! 🚀
+### 🌐 Conéctate conmigo
+
+- LinkedIn: [linkedin.com/in/julio-cesar-campos](https://linkedin.com/in/julio-cesar-campos)
+- GitHub: [github.com/JulioRom](https://github.com/JulioRom)
+- Email: [julioandrescampos@gmail.com](mailto:julioandrescampos@gmail.com)
+
+---
+
+### 🎯 Habilidades clave
+
+- Diseño e implementación de sistemas escalables
+- Optimización de procesos industriales mediante tecnología
+- Automatización y análisis de datos
+- Colaboración y liderazgo en equipos multidisciplinarios
+
+---
+
+### 💡 Proyectos destacados
+
+- **Integración de Equipos Industriales:** Desarrollo de soluciones avanzadas para el monitoreo y control remoto de más de 50 equipos industriales utilizando Java, Docker y React.
+- **Robot Bípedo Autónomo:** Diseño y desarrollo de un robot con 12 grados de libertad, integrando reconocimiento de imágenes para desplazamiento en entornos complejos.
+
+---
+
+¡Gracias por visitar mi perfil! Estoy abierto a nuevas oportunidades y colaboraciones. Si tienes un proyecto en mente o simplemente quieres conversar sobre tecnología, no dudes en contactarme.
+
+---
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=JulioRom&show_icons=true&include_all_commits=true&theme=dark&count_private=true 'Datos de Julio Campos')
+
+![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioRom&layout=compact&theme=dark 'Lenguajes principales de Julio Campos')
