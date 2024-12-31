@@ -1,7 +1,4 @@
 # 🤖 [@JulioRom](https://github.com/JulioRom)
-
-![GitHub followers](https://img.shields.io/github/followers/JulioRom?label=Follow%20me%20on%20GitHub&style=for-the-badge)
-
 ## ¡Hola! 👋🏻
 
 Bienvenido a mi perfil de GitHub. Soy Julio Campos, un **Desarrollador de Software** apasionado por la integración, automatización y análisis de datos. Con más de cinco años de experiencia, he trabajado en proyectos que optimizan procesos industriales y mejoran la eficiencia operativa.
