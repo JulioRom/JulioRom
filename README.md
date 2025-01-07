@@ -23,13 +23,6 @@ Bienvenido a mi perfil de GitHub. Soy Julio Campos, un **Desarrollador de Softwa
 
 ---
 
-### 🧠 Siempre aprendiendo
-
-- **Repositorio Playground:** Experimentos y aprendizaje continuo en [Playground](https://github.com/JulioRom/playground).
-- **Notas técnicas y prácticas:** Compartiendo conocimientos y buenas prácticas de desarrollo de software.
-
----
-
 ### 🌐 Conéctate conmigo
 
 - LinkedIn: [linkedin.com/in/julio-cesar-campos](https://linkedin.com/in/julio-cesar-campos)
