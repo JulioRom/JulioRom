@@ -15,9 +15,9 @@ Bienvenido a mi perfil de GitHub. Soy Julio Campos, un **Desarrollador de Softwa
 
 ### 🛠️ Tecnologías y herramientas
 
-- **Lenguajes**: Java, Python, JavaScript, C#, SQL
-- **Frameworks**: Spring Boot, React, Django, Flask
-- **Bases de datos**: Microsoft SQL Server, MySQL, PostgreSQL
+- **Lenguajes**: Java, Python, JavaScript, C#, SQL, PHP
+- **Frameworks**: Spring Boot, React, Django, Flask, Lavarel, Vue3
+- **Bases de datos**: Microsoft SQL Server, MySQL, PostgreSQL, SQLite
 - **DevOps**: Jenkins, Docker, Kubernetes
 - **Herramientas**: Power BI, Grafana, Git
 
